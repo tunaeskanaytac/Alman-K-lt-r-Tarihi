@@ -1,0 +1,64 @@
+[[8. sunum_1.ppt]]
+#### Almanya'nın Yeniden Yükselişi
+- Hitler 1923 yılında başarısız darbe girişiminden tutuklanınca demokrasi yoluyla ülkeyi ele geçirme planı yapar
+- Cezaevinden çıktıktan sonra Hitler iktidara gelene kadar partisinin parlamentodaki koltuk sayısını sürekli yükseltir
+- 1933de başbakan olur ve ülkedeki karışıklığı ileri sürerek kendisine sınırsız yetkiler veren bir kararname çıkartılmasını sağlar
+- Parlamentodaki koltuk sayısı sayesinde istediği kararı çıkartacak kadar oy almayı başarır ve diğer tüm partileri belli nedenler bularak kapattırır
+- Almanya 1945 yılına kadar tek partili sisteme geçer
+- Hitlere bağlı olan SA, SS, Gestapo gibi polis örgütleriyle muhalifleri ortadan kaldırır
+
+#### Hitler'in Stratejisi
+- Hitler 1933 yılında iktidara geldikten sonra 3 aşamalı bir strateji izlemiştir
+- I. Dünya savaşından sonra Alman ekonomisi ciddi sıkıntılar içerisindedir
+	- Hitler enflasyon, işsizlik, üretim hammadde düşüklüğünü ekonomi politikalarıyla kısa sürede kontrol altına almıştır
+	- #### Ekonomiyi düzeltmek için alınan tedbirler
+		- Hitler Versay Antlaşmasını yırtmıştır
+			- Alman Halkı bu kararı desteklemiştir
+			- Bu karar savaş tazminatlarının ödenmemesi ve ordunun tekrar büyümesi anlamına geliyordu
+		- Hitler'in ekonomi bakanı Dr. Hjamar Schacht ithalatı azaltmıştır ve dış ticareti değiş-tokuşla sınırlandırmıştır
+			- Amaç Almanya'nın servetini Almanya içinde tutmak
+		- Devlet harcamalarında büyük artış yaşanır
+			- En önemlisi Almanya'yı kapsayan otoban projesi olmak üzere elektrik hizmei de yaygınlaştırlır böylece Devlet hem yatırım yapmış olur hem de Özel Sektörü belli yatırımlarla kanalize etmiştir
+		- Almanya'da ücretler ve yaşam standartı çok yüksek olmadığından düşük ücretler iş bulunmasını sağlıyor ve üretimi arttırıyordu
+			- İşçiler en azından artık açlıktan ölmedikleri için az maaş almayı kabul ettikleri bir görüş içerisindelerdi
+		- Alman kadınları iş gücünden çıkarılır
+			- (Kadının işi Mutfak, Çocuk ve Kilisedir)
+			- Çalışmayan Alman kadınları daha az vergi ödemektedir
+				- Teknik olarak bu durum işsizliği azaltır
+		- 1935'de Yahudiler Alman Vatandaşlığından çıkarılır böylece işsizlik tekrar azalmış olur
+		- İşçi haklarını savunabilecek bir sendika olmadığından işçilerin ücretlerin azlığına karşı seslerini yükseltmeleri zordu, sonuçta kendilerini her an toplama kampında bulabilirlerdi
+		- Bir başka önemli etken de 1935 yılında askere alımların tekrar başlatılmasıdır
+			- İşsiz olan erkekler silah altına alınıp işsizlik azaltılmış olur.
+			- Versay antlaşmasından dönen almanya'nın top tank uçak gibi silahlara olan ihtiyacının, sanayiye olumlu etkisi olur.
+		- Hükümet "İmparatorluk Çalışma Servisi(RAD)" adında bir kurum kurdu
+			- bu kurumda çalışanlar kamplarda yaşıyor, sulama kanallarının yapımı veya otoban projesi gibi işlerde çalışıyorlardı
+		- #### Alman İşçi Cephesi
+			- Almanya'da yasaklanan sendikalar yerine, devlet tarafından Alman İşçi Cephesi adında bir kurum kuruldu
+			- Bu kurum sendikaların yaptığı işleri yapmıyorlardı ancak işçileri korumak için belli önlemler alıyordu
+				- Örneğin bir işçinin haksız yere işten çıkarılmaması veya işçinin işi bırakma veya değiştirme işlerinin devlet tarafından düzenlenmesi
+		- Eskiden haftada 60 saat olan çalıma süresi 1939 yılında 72 saate çıktı
+		- Hem işçiler hem de sıradan insanlar için ucuz tatiller düzenlendi
+		- Bütün işçilerin arabaya sahip olabilmesi için haftalık ücretlerinin bir kısmı fona yatırıldı ve Volkswagen otomobilleri doğdu
+			- Ancak toplanan fonlarıjn hepsi Alman savaş ekonomisine aktarıldı
+		- İşçilerin 3740 saat dinlenme süresi vardı, bu dinlenme süresinde yapacakları aktivitelerin hepsi devlet tarafından belirleniyordu
+	- #### Hitler'in stratejisi Nr.2
+		- Ekonominin düzene sokulmasıyla Versay Antlaşmasının sınırlarının içinde olan Alman kara, deniz ve hava kuvvetlerinin sınırlamalardan kurtulması sağlanmıştır
+	- #### Hitler'in stratejisi 3
+		- Almanca konuşan nüfusun yaşamakta olduğu bölgelerin Alman topraklarına katılması
+		- Bu evrenin ilk adımları 12 Mart 1938de Avusturya'nın ilhak edilmesiyle başlamıştır (Anschluss)
+			- İkinci adım Çekoslovakya toprakları içerisindeki Sudet bölgesidir
+			- Hitler'in baskısıyla 29 Eylül 1938 günü imzalanan Münih Anlaşmasıyla Sudet bölgesi Almanya'ya verilmiştir
+		- 1 Ekim 1938de Münih Antlaşmasına dayanarak silah kullanmadan nüfusun yüzde ellisinden fazlasını Almanların oluşturduğu Sudet bölgesini işgal etmiştir
+		- 15 Mart 1939da Çekoslovakya'nın kalanını da topraklarına dahil etmiştir
+			- Çek endüstrisinin Alman topraklarına katılmasıyla Almanya'nın savaş hazırlıkları daha da kolaylaşmıştır.
+		- Geriye kalan tek sorunlu bölge, Versay Antlaşmasıyla serbest kent ilan edilmiş olan Danzig'i Almanya'ya katma çabaları ve buna karşı Polonya'nın gösterdiği tepki sonucu doğan uluslararası bunalım tarihe "Danzig Sorunu" olarak geçmiştir
+			- Bunun sonucu 1 Eylül 1939 sabahı Alman birlikleri Polonya'yı işgale başlamıştır
+			- Almanya çekilmeyi reddedince 3 Eylül günü İngiltere ve Fransa, Almanya'ya savaş ilan eder ve 2. Dünya Savaşı başlamış olur
+#### Alman Propoganda Sistemi
+- Nazi propogandalaı kitleleri derinden etkilemeyi başarmıştır
+	- Ulusal Sosyalizm, Irkçılık, Yahudi Düşmanlığı ve Bolşeviklik karşıtlığı görüşlerini yaymışlardır
+	- Felsefe doktorası olan Joseph Goebbels Almanya'yı savaşa zihnen hazırlayan baş mimardır
+	- Propoganda sanat, müzik, tiyatro, film, kitap, radyo, eğitim dokümanları ve basın yoluyla başarılı bir şekilde verilmiştir
+#### Hitlerjugend - Hitler Gençliği
+- 1922de kurulan ve Alman Gençlerinin beynini Faşizm ve Nazizm ile yıkayan ve gençleri savaşa hazırlayan bir örgüttür
+	- 1936 yılından itibaren zorunlu hizmet olmuştur
